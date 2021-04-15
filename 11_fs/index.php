@@ -9,10 +9,10 @@ echo __LINE__ . '<br>';// prints the current line of code
 // mkdir('test');
 
 // Rename directory
-//rename('test', 'test2');
+// rename('test', 'test2');
 
 // Delete directory
-//rmdir('test2');
+// rmdir('test2');
 
 // Read files and folders inside directory
 $files = scandir('../');
