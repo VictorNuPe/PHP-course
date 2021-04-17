@@ -39,7 +39,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
   <body>
     <h1>Create new product</h1>
 
-    <form action="" method="post">
+    <form action="" method="POST">
         <div class="form-group">
           <label>Product Image</label>
           <br>
